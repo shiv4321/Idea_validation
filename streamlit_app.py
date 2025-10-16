@@ -18,7 +18,7 @@ import re
 # === CONFIGURATION ===
 GROQ_API_KEY = "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"
 GROQ_MODEL = "llama-3.3-70b-versatile"
-ADMIN_EMAIL = "kamalkumarmaurya315@gmail.com"
+ADMIN_EMAIL = "bootandboost@gmail.com"
 
 # === PAGE CONFIG ===
 st.set_page_config(
