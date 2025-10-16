@@ -18,7 +18,7 @@ import re
 # === CONFIGURATION ===
 GROQ_API_KEY = "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"
 GROQ_MODEL = "llama-3.3-70b-versatile"
-ADMIN_EMAIL = "bootandboost@gmail.com"
+ADMIN_EMAIL = "kamalkumarmaurya315@gmail.com"
 
 # === PAGE CONFIG ===
 st.set_page_config(
@@ -569,8 +569,8 @@ Use clear headings (##), subheadings (###), bullet points, and professional lang
                     </div>
                 """, unsafe_allow_html=True)
                 
-                if email_success:
-                    st.success(f"📧 A copy has been sent to {ADMIN_EMAIL}")
+                #if email_success:
+                 #   st.success(f"📧 A copy has been sent to {ADMIN_EMAIL}")
                 
                 # Download button
                 with open(filename, "rb") as file:
