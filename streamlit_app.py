@@ -16,7 +16,7 @@ from email import encoders
 import re
 
 # === CONFIGURATION ===
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 ADMIN_EMAIL = "bootandboost@gmail.com"
 
